@@ -1,0 +1,15 @@
+{
+  "editor.fontSize": 16,
+  "editor.codeLensFontSize": 16,
+  "editor.inlayHints.fontSize": 16,
+  "editor.minimap.sectionHeaderFontSize": 16,
+  "editor.suggestFontSize": 16,
+  "debug.console.fontSize": 16,
+  "scm.inputFontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "notebook.markup.fontSize": 16,
+  "notebook.output.fontSize": 16,
+  "chat.editor.fontSize": 16,
+  "editor.lineHeight": 0,
+  "markdown.preview.fontSize": 16
+}
